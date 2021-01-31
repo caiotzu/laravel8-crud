@@ -1,3 +1,5 @@
+##Primeios Passo
+-> Clone o projeto para seu ambiente de desenvolvimento.
 
 
 ## License
