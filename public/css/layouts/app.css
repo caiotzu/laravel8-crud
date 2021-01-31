@@ -1,0 +1,108 @@
+/*** Botões de Paginação dataTable ***/
+.dataTables_paginate {
+    margin-top: 30px !important;
+}
+
+a.paginate_button{
+    text-decoration: none !important;
+    margin: 10px 5px !important;
+    padding: 5px 15px !important;
+    border-radius: 50px !important;
+    border: 1px solid #e5e5e5 !important;
+    color: #0d6efd !important;
+}
+
+a.paginate_button:hover {
+    color: #fff !important;
+    transition-duration: 0.5s !important;
+    background-color:  #0d6efd !important;
+    cursor: pointer !important;
+}
+
+a.paginate_button.current{
+    color: #fff !important;
+    background-color: #0d6efd !important;
+}
+
+/*** Filtro de Pesquisa dataTable ***/
+.dataTables_filter input:placeholder-shown {
+    border: 1px solid #e5e5e5 !important;
+    border-radius: 50px !important;
+    margin-left: 8px !important;
+    height: 34px !important;
+    width: 60% !important;
+    padding: 0px 25px 0px 10px !important;
+    transition: all .6s ease !important;
+    float: right;
+}
+
+.dataTables_filter input  {
+    border: 1px solid #e5e5e5 !important;
+    border-radius: 50px !important;
+    margin-left: 8px !important;
+    height: 34px !important;
+    width: 100% !important;
+    padding: 0px 25px 0px 10px !important;
+    transition: all .6s ease !important;
+    cursor: pointer;
+}
+
+.dataTables_filter input:hover  {
+    border: 1px solid #e5e5e5 !important;
+    border-radius: 50px !important;
+    margin-left: 8px !important;
+    height: 34px !important;
+    width: 100% !important;
+    padding: 0px 25px 0px 10px !important;
+    transition: all .6s ease !important;
+    cursor: pointer;
+}
+
+.dataTables_filter input:focus {
+    box-shadow: 0 0 0 0 !important;;
+    outline: 0 !important;;
+}
+
+
+/*** Númeração da pagina dataTable ***/
+.dataTables_length select {
+    border: 1px solid #e5e5e5 !important;
+    border-radius: 50px !important;
+    padding: 5px 10px !important;;    
+    color: #877787 !important;
+    -webkit-appearance: none !important;;
+    -moz-appearance: none !important;;
+    width: 50% !important;
+    text-align: center !important;
+    text-align-last:center !important; /* alinhar no chrome*/
+}
+
+.dataTables_length select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+
+/*** Select 2 ***/
+.select2-selection__rendered {
+    line-height: 40px !important;
+}
+.select2-container .select2-selection--single {
+    border: 1px solid #ced4da !important;
+    height: 40px !important;
+}
+.select2-selection__arrow {
+    height: 40px !important;
+}
+
+.select2 {
+    width:100% !important; /* tira o bug no redimensionamento da tela*/
+}
+
+
+/*** Badge***/
+.badge {
+    padding: 8px;
+    font-size: 13px;
+}
