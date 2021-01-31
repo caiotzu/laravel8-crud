@@ -1,7 +1,11 @@
-## Primeios Passo
-> Clone o projeto para seu ambiente de desenvolvimento.
-> Acesse os local onde a repositório foi clonado.
-> Execute o comando: npm install
+## Instalação
+> Download e configuração do projeto
+
+- Clone o projeto para seu ambiente de desenvolvimento
+- Acesse os local onde o repositório foi clonado
+- Execute o comando: npm install
+- Altere o arquivo env.example para .env
+- Coloque no arquivo .env suas variáveis de ambiente
 
 
 ## License
