@@ -1,7 +1,7 @@
 ## Primeios Passo
--> Clone o projeto para seu ambiente de desenvolvimento.
--> Acesse os local onde a repositório foi clonado.
--> Execute o comando: npm install
+> Clone o projeto para seu ambiente de desenvolvimento.
+> Acesse os local onde a repositório foi clonado.
+> Execute o comando: npm install
 
 
 ## License
