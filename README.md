@@ -1,5 +1,5 @@
 ## Instalação
-> Download e configuração do projeto
+> Download e configuração do projeto.
 
 - Clone o projeto para seu ambiente de desenvolvimento
 - Acesse a pasta do repositório clonado
@@ -20,7 +20,7 @@
 - acesse o link gerado pelo laravel: http://127.0.0.1:8000/
 
 ## Observações
-> O PHP deve estar corretamente instalado e o apache rodando para o perfeito funcionamento do peojeto
+> O PHP deve estar corretamente instalado e o apache rodando para o perfeito funcionamento do projeto.
 
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
