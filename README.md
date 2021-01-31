@@ -10,6 +10,7 @@
 ## Inicialização
 > Execute os comando abaixo em sequência, dentro do repositório clonado.
 
+- composer update
 - php artisan migration
 - php artisan serve
 
