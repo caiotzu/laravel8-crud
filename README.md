@@ -7,6 +7,16 @@
 - Altere o arquivo env.example para .env
 - Coloque no arquivo .env suas variáveis de ambiente
 
+## Inicialização
+> Execute os comando abaixo em sequência, dentro do repositório clonado.
+
+- php artisan migration
+- php artisan serve
+
+## Finalização
+> Link de acesso fornecido pelo laravel
+- acesse o link gerado pelo laravel: http://127.0.0.1:8000/
+
 
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
