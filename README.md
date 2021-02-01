@@ -22,5 +22,7 @@
 ## Observações
 > O PHP deve estar corretamente instalado e o apache rodando para o perfeito funcionamento do projeto.
 
+- PHP na versão 7.3 ou superior
+
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
